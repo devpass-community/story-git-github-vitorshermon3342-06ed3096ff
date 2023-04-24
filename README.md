@@ -1,3 +1,3 @@
 ## Contributors
 
-- Denise Tech Lead
+- Vito shermon
